@@ -4,3 +4,4 @@ This analysis maps earthquake data from the past 7 days along with tectonic plat
 
 The end product was a map with an interactable legend in the top right that allows the user to change the map they are looking at:
 
+![Map of Earthquakes: Satellite, Major Earthquakes, Tectonic Plates](https://github.com/waciciarelli/Mapping_Earthquakes/blob/main/Module_13_Challenge/Images/map.png?raw=true)
